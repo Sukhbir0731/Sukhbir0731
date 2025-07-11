@@ -10,5 +10,4 @@ I'm currently pursuing my Master's in **Computer Science** at **UMBC**. I enjoy 
 
 ### Connect with me 🚀
 - 📫 **Email:** [sukhbir0731@gmail.com](mailto:sukhbir0731@gmail.com)
-- 🔗 **Portfolio:** [sukhbir0731.github.io/portfolio](https://sukhbir0731.github.io/portfolio/)  
 - 💼 **LinkedIn:** [linkedin.com/in/sukhbirsinghsardar](https://linkedin.com/in/sukhbirsinghsardar)
