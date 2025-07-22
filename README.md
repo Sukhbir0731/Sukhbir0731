@@ -9,5 +9,5 @@ Full-Stack Software Developer with over 3+ years of experience building scalable
 - ⚡ **Fun fact:** I'm a huge soccer ⚽, cricket 🏏 and f1 🏎️ fan!
 
 ### Connect with me 🚀
-- 📫 **Email:** [sukhbir0731@gmail.com](mailto:sukhbir0731@gmail.com)
+- 📫 **Email:** [sukhbir.s3107@gmail.com](mailto:sukhbir.s3107@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/sukhbirsinghsardar](https://linkedin.com/in/sukhbirsinghsardar)
